@@ -7,7 +7,7 @@ Junior Frontend Developer
 I've been learning to code for 3 years. I started with C++, but have really found a passion for Frontend development. Now I'm learning .NET to expand my webmaster competences to become a Full-stack Developer.
 
 *   🌍  I'm based in Nowy Sącz
-*   🖥️  See my portfolio at [mWasilewski](http://mwasilewski.pl)
+*   🖥️  See my portfolio at [mWasilewski](https://marcinsql.github.io/)
 *   ✉️  You can contact me at [marcin.wasilewski512@gmail.com](mailto:marcin.wasilewski512@gmail.com)
 *   🚀  I'm currently working on [Smart Organiser](http://test.internal-blackbox-studio.pl/)
 *   🧠  I'm learning ASP.NET Core REST Web API
